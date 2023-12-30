@@ -1,0 +1,3 @@
+C:/Users/kaial/Desktop/cs120/SmartPtrDemo/cmake-build-debug/CMakeFiles/PointerCA.dir
+C:/Users/kaial/Desktop/cs120/SmartPtrDemo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kaial/Desktop/cs120/SmartPtrDemo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
